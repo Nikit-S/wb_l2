@@ -3,7 +3,7 @@ package ctime
 import (
 	"fmt"
 
-	_ "github.com/beevik/ntp"
+	ntp "github.com/beevik/ntp"
 )
 
 func PrintTime() error {

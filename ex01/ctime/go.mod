@@ -1,4 +1,4 @@
-module github.com/Nikit-S/wb_l2/ex01/ctime
+module github.com/Nikit-S/wb_l2/ex01
 
 go 1.18
 
